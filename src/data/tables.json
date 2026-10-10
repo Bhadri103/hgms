@@ -1,0 +1,1647 @@
+{
+  "attendance/datewise_attendance:table-0": {
+    "columns": [
+      "Date",
+      "ID",
+      "Image",
+      "Name",
+      "Expiry Date",
+      "Contact No",
+      "In Time",
+      "Out Time",
+      "All Logs",
+      "Device ID",
+      "Due Amount",
+      "Status"
+    ],
+    "page": "attendance/datewise_attendance",
+    "title": "View Today Attendance"
+  },
+  "attendance/monthly_attendance:table-0": {
+    "columns": [
+      "Joining Date",
+      "Expiry Date",
+      "Membership No",
+      "Name",
+      "Monthly Attendance",
+      "View Log"
+    ],
+    "page": "attendance/monthly_attendance",
+    "title": "View Attendance Report"
+  },
+  "attendance/today_logs:table-0": {
+    "columns": [
+      "Date",
+      "ID",
+      "Image",
+      "Name",
+      "Expiry Date",
+      "Contact No",
+      "In Time",
+      "Out Time",
+      "All Logs",
+      "Device ID",
+      "Due Amount",
+      "Status"
+    ],
+    "page": "attendance/today_logs",
+    "title": "View Today Attendance"
+  },
+  "billing/invoice_management/cancel_invoice:table-0": {
+    "columns": [
+      "Invoice Date",
+      "Invoice Number",
+      "Membership No",
+      "Membership Name",
+      "Plan Name",
+      "Total Amount",
+      "Paid Amount",
+      "Due Amount",
+      "Log by",
+      "Action"
+    ],
+    "page": "billing/invoice_management/cancel_invoice",
+    "title": "Cancel Invoice Export To Excel (unavailable)"
+  },
+  "billing/invoice_management/manage_invoice:table-0": {
+    "columns": [
+      "Invoice Date",
+      "Invoice Number",
+      "Membership No",
+      "Membership Name",
+      "Plan Name",
+      "Total Amount",
+      "Paid Amount",
+      "Due Amount",
+      "Log by",
+      "Action"
+    ],
+    "page": "billing/invoice_management/manage_invoice",
+    "title": "Manage Invoice Export To Excel (unavailable)"
+  },
+  "billing/receipt_management/cancel_invoice:table-0": {
+    "columns": [
+      "Invoice Date",
+      "Invoice Number",
+      "Membership No",
+      "Membership Name",
+      "Plan Name",
+      "Total Amount",
+      "Paid Amount",
+      "Due Amount",
+      "Log by",
+      "Action"
+    ],
+    "page": "billing/receipt_management/cancel_invoice",
+    "title": "Cancel Invoice Export To Excel (unavailable)"
+  },
+  "billing/receipt_management/manage_recipt:table-0": {
+    "columns": [
+      "Date",
+      "Invoice Number",
+      "Membership No",
+      "Membership Name",
+      "Payment Method",
+      "Amount",
+      "Log by",
+      "Action"
+    ],
+    "page": "billing/receipt_management/manage_recipt",
+    "title": "Manage Payment Recipt"
+  },
+  "cash-flow-report/cashflow_report:table-0": {
+    "columns": [
+      "Closing Balance"
+    ],
+    "page": "cash-flow-report/cashflow_report",
+    "title": ""
+  },
+  "cash-flow-report/cashflow_report:table-1": {
+    "columns": [
+      "Closing Position"
+    ],
+    "page": "cash-flow-report/cashflow_report",
+    "title": ""
+  },
+  "Class_booking/booking_report:table-0": {
+    "columns": [
+      "#",
+      "Class Name",
+      "Class Date",
+      "Day",
+      "Time",
+      "Slots",
+      "Booked",
+      "Status Mix",
+      "Total Amount",
+      "Total Paid",
+      "Total Due",
+      "Action"
+    ],
+    "page": "Class_booking/booking_report",
+    "title": ""
+  },
+  "Class_booking/manage_booking:table-0": {
+    "columns": [
+      "#",
+      "Invoice",
+      "Member",
+      "Date",
+      "Class",
+      "Plan",
+      "Timing",
+      "Total",
+      "Paid",
+      "Due",
+      "Status",
+      "Actions"
+    ],
+    "page": "Class_booking/manage_booking",
+    "title": ""
+  },
+  "Class_booking/manage_schcat:table-0": {
+    "columns": [
+      "Scheduling Category",
+      "Assigned Gym",
+      "Action"
+    ],
+    "page": "Class_booking/manage_schcat",
+    "title": "Scheduling Category"
+  },
+  "Class_booking/manage_schclass:table-0": {
+    "columns": [
+      "#",
+      "Class Name",
+      "Category",
+      "Trainer",
+      "Start",
+      "End",
+      "Slots",
+      "Schedule",
+      "Type",
+      "Location",
+      "Plans",
+      "Action"
+    ],
+    "page": "Class_booking/manage_schclass",
+    "title": ""
+  },
+  "Class_booking/manage_schclass:table-1": {
+    "columns": [
+      "Plan Name",
+      "Plan Amount",
+      "Trainer",
+      "Trainer Amount"
+    ],
+    "page": "Class_booking/manage_schclass",
+    "title": ""
+  },
+  "Class_booking/manage_schplan:table-0": {
+    "columns": [
+      "Scheduling Category",
+      "Scheduling Plan",
+      "Session/Pass",
+      "Plan Amount",
+      "Assigned Gym",
+      "Action"
+    ],
+    "page": "Class_booking/manage_schplan",
+    "title": "Manage Scheduling Plan"
+  },
+  "communicate/enquiry/manage_bookings:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Address",
+      "Inquiry Type",
+      "Entry Type",
+      "Follow up Date",
+      "Follow up Time",
+      "Log by",
+      "View Thread",
+      "Booking Amount",
+      "Action"
+    ],
+    "page": "communicate/enquiry/manage_bookings",
+    "title": "Manage Enquiry Export To Excel (unavailable)"
+  },
+  "communicate/enquiry/manage_enquiry_followup_delayed:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Address",
+      "Inquiry Type",
+      "Entry Type",
+      "Follow up Date",
+      "Follow up Time",
+      "Log by",
+      "Last Thread",
+      "View Thread",
+      "Action"
+    ],
+    "page": "communicate/enquiry/manage_enquiry_followup_delayed",
+    "title": "Manage Enquiry Export To Excel (unavailable) Add Enquiry"
+  },
+  "communicate/enquiry/manage_enquiry_followup_today:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Address",
+      "Inquiry Type",
+      "Entry Type",
+      "Follow up Date",
+      "Follow up Time",
+      "Log by",
+      "Last Thread",
+      "View Thread",
+      "Action"
+    ],
+    "page": "communicate/enquiry/manage_enquiry_followup_today",
+    "title": "Manage Enquiry Export To Excel (unavailable) Add Enquiry"
+  },
+  "communicate/enquiry/manage_enquiry_pre:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Address",
+      "Inquiry Type",
+      "Entry Type",
+      "Follow up Date",
+      "Follow up Time",
+      "Log by",
+      "Last Thread",
+      "View Thread",
+      "Action"
+    ],
+    "page": "communicate/enquiry/manage_enquiry_pre",
+    "title": "Manage Enquiry Export To Excel (unavailable) Add Enquiry"
+  },
+  "communicate/enquiry/uninterested_followup:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Address",
+      "Follow up Date",
+      "Follow up Time",
+      "Log by",
+      "Action"
+    ],
+    "page": "communicate/enquiry/uninterested_followup",
+    "title": "Manage Uninterested Enquiry"
+  },
+  "communicate/promotion_broadcast/expired_allsms:table-0": {
+    "columns": [
+      "Date",
+      "Expiry Date",
+      "Mem No",
+      "Name",
+      "Mobile"
+    ],
+    "page": "communicate/promotion_broadcast/expired_allsms",
+    "title": "SMS To ALL Expired"
+  },
+  "communicate/promotion_broadcast/sendto_all:table-0": {
+    "columns": [
+      "Date",
+      "Mem No",
+      "Name",
+      "Mobile"
+    ],
+    "page": "communicate/promotion_broadcast/sendto_all",
+    "title": "Send To All SMS"
+  },
+  "communicate/promotion_broadcast/sendto_enquiry:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date"
+    ],
+    "page": "communicate/promotion_broadcast/sendto_enquiry",
+    "title": "SMS All Enquiry"
+  },
+  "communicate/promotion_broadcast/smsall_livemember:table-0": {
+    "columns": [
+      "Date",
+      "Mem No",
+      "Name",
+      "Mobile"
+    ],
+    "page": "communicate/promotion_broadcast/smsall_livemember",
+    "title": "SMS To ALL Live"
+  },
+  "engagement/assign_diet_web:table-0": {
+    "columns": [
+      "#",
+      "Member",
+      "Phone",
+      "Diet",
+      "Diet Type",
+      "Date",
+      "Actions"
+    ],
+    "page": "engagement/assign_diet_web",
+    "title": ""
+  },
+  "engagement/assign_exercise_web:table-0": {
+    "columns": [
+      "#",
+      "Member",
+      "Phone",
+      "Workout",
+      "Date",
+      "Actions"
+    ],
+    "page": "engagement/assign_exercise_web",
+    "title": ""
+  },
+  "engagement/manage_diet:table-0": {
+    "columns": [
+      "Diet Plan",
+      "Assigned Gyms",
+      "Type",
+      "Remark",
+      "Last Updated",
+      "Actions"
+    ],
+    "page": "engagement/manage_diet",
+    "title": ""
+  },
+  "engagement/manage_measureN:table-0": {
+    "columns": [
+      "Member",
+      "Logs",
+      "Latest Date",
+      "Trend",
+      "Actions"
+    ],
+    "page": "engagement/manage_measureN",
+    "title": ""
+  },
+  "engagement/manage_workoutN:table-0": {
+    "columns": [
+      "Workout Plan",
+      "Assigned Gyms",
+      "Days",
+      "Remark",
+      "Last Updated",
+      "Actions"
+    ],
+    "page": "engagement/manage_workoutN",
+    "title": ""
+  },
+  "engagement/old/diet/manage_diet:table-0": {
+    "columns": [
+      "",
+      "Date",
+      "Category Name",
+      "Diet 1",
+      "Diet 2",
+      "Diet 3",
+      "Diet 4",
+      "Diet 5",
+      "Diet 6",
+      "Diet 7",
+      "Diet 8",
+      "Action"
+    ],
+    "page": "engagement/old/diet/manage_diet",
+    "title": "Manage Diet"
+  },
+  "engagement/old/diet/manage_dietassign:table-0": {
+    "columns": [
+      "",
+      "Date",
+      "Member Name",
+      "Category Name",
+      "Action"
+    ],
+    "page": "engagement/old/diet/manage_dietassign",
+    "title": "Manage Assign Diet"
+  },
+  "engagement/old/measurement/manage_measurement:table-0": {
+    "columns": [
+      "ID",
+      "Name",
+      "Plan",
+      "Action"
+    ],
+    "page": "engagement/old/measurement/manage_measurement",
+    "title": "Manage Measurement"
+  },
+  "engagement/old/workout-plan/view_workout_plan:table-0": {
+    "columns": [
+      "Category Name",
+      "Workout",
+      "Video Url",
+      "Action"
+    ],
+    "page": "engagement/old/workout-plan/view_workout_plan",
+    "title": "View Workout"
+  },
+  "finance/event_management/manage_events:table-0": {
+    "columns": [
+      "ID",
+      "Name",
+      "Category",
+      "Start Date~End Date",
+      "Log By",
+      "Action"
+    ],
+    "page": "finance/event_management/manage_events",
+    "title": "Manage Events"
+  },
+  "finance/expense_management/expense_report:table-0": {
+    "columns": [
+      "Date",
+      "Category",
+      "Description",
+      "Amount",
+      "User",
+      "From Account",
+      "Log By"
+    ],
+    "page": "finance/expense_management/expense_report",
+    "title": "Manage Expenses Report"
+  },
+  "finance/expense_management/fixed_expenses:table-0": {
+    "columns": [
+      "Date",
+      "Category",
+      "Description",
+      "Amount",
+      "User",
+      "From Account",
+      "Log By",
+      "Action"
+    ],
+    "page": "finance/expense_management/fixed_expenses",
+    "title": "Fixed Expenses"
+  },
+  "finance/expense_management/manage_expenses:table-0": {
+    "columns": [
+      "Date",
+      "Category",
+      "Description",
+      "Amount",
+      "User",
+      "From Account",
+      "Log By",
+      "Action"
+    ],
+    "page": "finance/expense_management/manage_expenses",
+    "title": "Manage Expenses"
+  },
+  "general/bult-upload/delete_bulkmember:table-0": {
+    "columns": [
+      "Date",
+      "Batch Number",
+      "Last Member Name",
+      "Last Member id",
+      "Action"
+    ],
+    "page": "general/bult-upload/delete_bulkmember",
+    "title": "Delete Member Excel"
+  },
+  "general/inventory-management/invcollection:table-0": {
+    "columns": [
+      "Collection",
+      "Expense",
+      "Total",
+      "Result"
+    ],
+    "page": "general/inventory-management/invcollection",
+    "title": "Profit & Loss Report"
+  },
+  "general/inventory-management/item_report:table-0": {
+    "columns": [
+      "Product",
+      "Category",
+      "Unit",
+      "IN",
+      "OUT",
+      "BALANCE",
+      "Status"
+    ],
+    "page": "general/inventory-management/item_report",
+    "title": ""
+  },
+  "general/inventory-management/manage_product:table-0": {
+    "columns": [
+      "Category",
+      "Product",
+      "Product Image",
+      "Unit",
+      "Bar Code",
+      "Stockable",
+      "Purchase",
+      "Selling",
+      "Action"
+    ],
+    "page": "general/inventory-management/manage_product",
+    "title": ""
+  },
+  "general/inventory-management/manage_purchase:table-0": {
+    "columns": [
+      "Date",
+      "Sr No",
+      "Name",
+      "Address",
+      "Total Amount",
+      "Discount",
+      "Total Paid",
+      "Due Amount",
+      "Action"
+    ],
+    "page": "general/inventory-management/manage_purchase",
+    "title": "Manage Purchase Bill"
+  },
+  "general/inventory-management/manage_sell:table-0": {
+    "columns": [
+      "Date",
+      "Sr No",
+      "Name",
+      "Address",
+      "Total Amount",
+      "Discount",
+      "Total Paid",
+      "Due Amount",
+      "Action"
+    ],
+    "page": "general/inventory-management/manage_sell",
+    "title": "Manage Sell Bill"
+  },
+  "general/inventory-management/purchase_report:table-0": {
+    "columns": [
+      "Date",
+      "Bill No",
+      "Invoice",
+      "Name",
+      "Address",
+      "Total Amount",
+      "Discount",
+      "Total Paid",
+      "Due Amount",
+      "Status"
+    ],
+    "page": "general/inventory-management/purchase_report",
+    "title": ""
+  },
+  "general/inventory-management/sale_report:table-0": {
+    "columns": [
+      "Date",
+      "Bill No",
+      "Invoice",
+      "Name",
+      "Address",
+      "Total Amount",
+      "Discount",
+      "Total Paid",
+      "Due Amount",
+      "Status"
+    ],
+    "page": "general/inventory-management/sale_report",
+    "title": ""
+  },
+  "manage_feedback:table-0": {
+    "columns": [
+      "Name",
+      "Mobile",
+      "Email",
+      "Feedback",
+      "Assigned Gym"
+    ],
+    "page": "manage_feedback",
+    "title": "Feedback"
+  },
+  "manage_offer_gal:table-0": {
+    "columns": [
+      "Image",
+      "Image Name",
+      "Type",
+      "Assigned Gym",
+      "Action"
+    ],
+    "page": "manage_offer_gal",
+    "title": "Offer/Gallery Image"
+  },
+  "master/backup_management:table-0": {
+    "columns": [
+      "#",
+      "Logged By",
+      "File Type",
+      "File Name",
+      "Status",
+      "Action"
+    ],
+    "page": "master/backup_management",
+    "title": "Manage Backup New Backup"
+  },
+  "master/cashflow_subcat:table-0": {
+    "columns": [
+      "Expense Sub Category",
+      "Notes",
+      "Type",
+      "Action"
+    ],
+    "page": "master/cashflow_subcat",
+    "title": "Manage Expense Category"
+  },
+  "master/logged_user:table-0": {
+    "columns": [
+      "Name",
+      "Last Active",
+      "Device ID",
+      "Mac ID / IP Address",
+      "Device Type",
+      "Status",
+      "Verified",
+      "Action"
+    ],
+    "page": "master/logged_user",
+    "title": "Logged Users"
+  },
+  "master/manage_batch:table-0": {
+    "columns": [
+      "batch",
+      "Timing",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_batch",
+    "title": "batch"
+  },
+  "master/manage_coupon:table-0": {
+    "columns": [
+      "Code",
+      "Name",
+      "Type",
+      "Discount (%)",
+      "Min Amount",
+      "Max Discount",
+      "Valid From",
+      "Valid To",
+      "Usage Limit",
+      "Used",
+      "Organisation",
+      "Status",
+      "Show/Hide",
+      "Action"
+    ],
+    "page": "master/manage_coupon",
+    "title": "Coupon Management"
+  },
+  "master/manage_custcat:table-0": {
+    "columns": [
+      "Customer Category",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_custcat",
+    "title": "Customer Category"
+  },
+  "master/manage_eventcat:table-0": {
+    "columns": [
+      "Event Category",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_eventcat",
+    "title": "Event Category"
+  },
+  "master/manage_inqtype:table-0": {
+    "columns": [
+      "Inquiry Type",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_inqtype",
+    "title": "Inquiry Type"
+  },
+  "master/manage_plan:table-0": {
+    "columns": [
+      "Plan Name",
+      "Plan Type",
+      "amount",
+      "Duration",
+      "Description",
+      "Visible",
+      "Pass Details",
+      "With Classes",
+      "Freezing Days",
+      "Max Discount",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_plan",
+    "title": "Manage Plan"
+  },
+  "master/manage_productcat:table-0": {
+    "columns": [
+      "Category",
+      "Name",
+      "Assigned Gym",
+      "Action"
+    ],
+    "page": "master/manage_productcat",
+    "title": "Product Category"
+  },
+  "master/manage_role:table-0": {
+    "columns": [
+      "Role",
+      "Discount Percent",
+      "Action"
+    ],
+    "page": "master/manage_role",
+    "title": "Role"
+  },
+  "master/manage_special_coupon:table-0": {
+    "columns": [
+      "Code",
+      "Mobile No",
+      "Member Name",
+      "Discount (%)",
+      "Min Amount",
+      "Max Discount",
+      "Valid From",
+      "Valid To",
+      "Used",
+      "Action"
+    ],
+    "page": "master/manage_special_coupon",
+    "title": "Special Coupon Management"
+  },
+  "master/manage_tax:table-0": {
+    "columns": [
+      "Tax",
+      "Percentage(%)",
+      "Action"
+    ],
+    "page": "master/manage_tax",
+    "title": "Manage Tax"
+  },
+  "master/manage_template:table-0": {
+    "columns": [
+      "Template Name",
+      "Template Content",
+      "Action"
+    ],
+    "page": "master/manage_template",
+    "title": "Manage SMS Template"
+  },
+  "master/manage_unit:table-0": {
+    "columns": [
+      "Unit",
+      "Action"
+    ],
+    "page": "master/manage_unit",
+    "title": "Manage Unit"
+  },
+  "master/manage_user:table-0": {
+    "columns": [
+      "ID",
+      "Name",
+      "User Type",
+      "Mobile",
+      "username",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_user",
+    "title": "Batch"
+  },
+  "master/manage_workoutcat:table-0": {
+    "columns": [
+      "Workout Category",
+      "Assigned gym",
+      "Action"
+    ],
+    "page": "master/manage_workoutcat",
+    "title": "Workout Category"
+  },
+  "master/organizations:table-0": {
+    "columns": [
+      "ID",
+      "Logo",
+      "Name",
+      "Branch Name",
+      "Mobile",
+      "Address",
+      "City",
+      "Membership Id Prefix",
+      "Action"
+    ],
+    "page": "master/organizations",
+    "title": "Manage Organisation"
+  },
+  "master/user_log:table-0": {
+    "columns": [
+      "Join Date",
+      "Page Name",
+      "User Type",
+      "Mobile",
+      "username",
+      "View Log"
+    ],
+    "page": "master/user_log",
+    "title": "View User Logs"
+  },
+  "membership/all_member_live_report:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "membership/all_member_live_report",
+    "title": ""
+  },
+  "membership/block_member:table-0": {
+    "columns": [
+      "ID",
+      "Img",
+      "Plan",
+      "Start",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Log By",
+      "Action"
+    ],
+    "page": "membership/block_member",
+    "title": "Block Members"
+  },
+  "membership/delete_member:table-0": {
+    "columns": [
+      "ID",
+      "Img",
+      "Plan",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Address",
+      "Action"
+    ],
+    "page": "membership/delete_member",
+    "title": "Block Members"
+  },
+  "membership/expired_membership:table-0": {
+    "columns": [
+      "ID",
+      "",
+      "Plan",
+      "Start",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Account",
+      "By",
+      "Action"
+    ],
+    "page": "membership/expired_membership",
+    "title": "Expired Members All Prefix Name"
+  },
+  "membership/manage_group_x_member:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Trainer Name",
+      "Account",
+      "Log By",
+      "Action"
+    ],
+    "page": "membership/manage_group_x_member",
+    "title": "Groupx Subscription Name Trainer Name"
+  },
+  "membership/manage_pt_member:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Trainer Name",
+      "Account",
+      "Log By",
+      "Action"
+    ],
+    "page": "membership/manage_pt_member",
+    "title": "PT Subscription Name Trainer Name"
+  },
+  "membership/vip_member:table-0": {
+    "columns": [
+      "ID",
+      "",
+      "Name",
+      "Contact",
+      "Log By",
+      "Action"
+    ],
+    "page": "membership/vip_member",
+    "title": "VIP Members"
+  },
+  "member_profile/member_profile:table-0": {
+    "columns": [
+      "ID",
+      "Img",
+      "Plan",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Address",
+      "Action"
+    ],
+    "page": "member_profile/member_profile",
+    "title": "View Members Export To Excel (unavailable)"
+  },
+  "report/all_freeze_member_report:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "report/all_freeze_member_report",
+    "title": ""
+  },
+  "report/all_left_member_report:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "report/all_left_member_report",
+    "title": ""
+  },
+  "report/all_member_report:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "report/all_member_report",
+    "title": ""
+  },
+  "report/collection_report:table-0": {
+    "columns": [
+      "Date",
+      "Type",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Plan Name",
+      "Payment Mode",
+      "Transaction Details",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report",
+    "title": "Export to Excel GYM Member Report"
+  },
+  "report/collection_report:table-1": {
+    "columns": [
+      "Date",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Plan Name",
+      "Payment Mode",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report",
+    "title": "Export to Excel GYM Member Report"
+  },
+  "report/collection_report_all:table-0": {
+    "columns": [
+      "Date",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Plan Name",
+      "Payment Mode",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report_all",
+    "title": "Export to Excel Collection Report"
+  },
+  "report/collection_report_all:table-1": {
+    "columns": [
+      "Date",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Payment Mode",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report_all",
+    "title": "Export to Excel Collection Report"
+  },
+  "report/collection_report_pos:table-0": {
+    "columns": [
+      "Date",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Payment Mode",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report_pos",
+    "title": "Export to Excel POS Sale Report"
+  },
+  "report/collection_report_pos:table-1": {
+    "columns": [
+      "Date",
+      "Membership No.",
+      "Invoice No.",
+      "Receipt No.",
+      "Member Name",
+      "Payment Mode",
+      "Paid Amount",
+      "Log by"
+    ],
+    "page": "report/collection_report_pos",
+    "title": "Export to Excel POS Sale Report"
+  },
+  "report/due_report:table-0": {
+    "columns": [
+      "Membership No",
+      "Name",
+      "Contact No",
+      "Invoice NO",
+      "Invoice Date",
+      "Plan Name",
+      "Due Amount",
+      "Due Date",
+      "Status",
+      "Last Thread",
+      "Action"
+    ],
+    "page": "report/due_report",
+    "title": "Due Amount Gym Members"
+  },
+  "report/expired_memberreport:table-0": {
+    "columns": [
+      "ID",
+      "Img",
+      "Plan",
+      "Start",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Account",
+      "By",
+      "Action"
+    ],
+    "page": "report/expired_memberreport",
+    "title": "Expired Members Report"
+  },
+  "report/gift_days_report:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Gift Days",
+      "Old Date",
+      "New Date",
+      "Log By",
+      "Device",
+      "Remark",
+      "Date Time"
+    ],
+    "page": "report/gift_days_report",
+    "title": "Gift Days Report"
+  },
+  "report/irregular_members:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Contact No",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "report/irregular_members",
+    "title": ""
+  },
+  "report/member_referred:table-0": {
+    "columns": [
+      "Membership No",
+      "Name",
+      "Address",
+      "Contact No",
+      "Referred by"
+    ],
+    "page": "report/member_referred",
+    "title": "Referred Report"
+  },
+  "report/plan_report:table-0": {
+    "columns": [
+      "Sr No",
+      "Plan Name",
+      "Plan Type",
+      "Plan Details",
+      "Plan Duration",
+      "Plan Amount",
+      "Members",
+      "Collection",
+      "Due"
+    ],
+    "page": "report/plan_report",
+    "title": "Plan Report"
+  },
+  "report/promotion_report:table-0": {
+    "columns": [
+      "Membership No",
+      "Name",
+      "Address",
+      "Contact No",
+      "Hear BY"
+    ],
+    "page": "report/promotion_report",
+    "title": "Promotion Events Report"
+  },
+  "report/pt_gx_expiring:table-0": {
+    "columns": [
+      "#",
+      "Image",
+      "Plan Name",
+      "Start Date",
+      "Expiry Date",
+      "Name",
+      "Trainer Name",
+      "Amount",
+      "log By",
+      "Action"
+    ],
+    "page": "report/pt_gx_expiring",
+    "title": ""
+  },
+  "report/renewal_members:table-0": {
+    "columns": [
+      "Renewal Date",
+      "ID",
+      "Img",
+      "Plan",
+      "Start",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Amount",
+      "Paid",
+      "Due",
+      "log By"
+    ],
+    "page": "report/renewal_members",
+    "title": "Renewed Members"
+  },
+  "report/sales_tracker:table-0": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-1": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-2": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-3": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-4": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-5": {
+    "columns": [
+      "Log Date",
+      "Enquiry No.",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-6": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-7": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-8": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-9": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-10": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-11": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-12": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-13": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-14": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-15": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-16": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-17": {
+    "columns": [
+      "Log Date",
+      "Customer Name",
+      "Mobile",
+      "Last Response",
+      "Follow up Date & Time"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-18": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-19": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-20": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-21": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-22": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/sales_tracker:table-23": {
+    "columns": [
+      "Date",
+      "Mem No.",
+      "Image",
+      "Name",
+      "Mobile",
+      "Plan",
+      "Start",
+      "Expiry",
+      "INV No.",
+      "Account"
+    ],
+    "page": "report/sales_tracker",
+    "title": "Sales Tracker Report"
+  },
+  "report/tax_report:table-0": {
+    "columns": [
+      "Date",
+      "Membership No",
+      "Member Name",
+      "Invoice Number",
+      "Subtotal",
+      "Is Plan Amount Tax Included?",
+      "CGST(2.5)",
+      "VAT(2.5)",
+      "gst (15)",
+      "gst(5)",
+      "VAT(10)",
+      "Final Amount",
+      "Total"
+    ],
+    "page": "report/tax_report",
+    "title": "Tax Report Export Table to CSV"
+  },
+  "report/today_event:table-0": {
+    "columns": [
+      "Membership No",
+      "Name",
+      "Contact No",
+      "Address",
+      "DOB",
+      "Marriage Anniversary"
+    ],
+    "page": "report/today_event",
+    "title": "Today Events"
+  },
+  "report/today_member_report:table-0": {
+    "columns": [
+      "Joining Date",
+      "ID",
+      "Img",
+      "Plan",
+      "Start",
+      "Expiry",
+      "Name",
+      "Contact",
+      "Amount",
+      "Paid",
+      "Due",
+      "log By"
+    ],
+    "page": "report/today_member_report",
+    "title": "Join members"
+  },
+  "salary_module/attendance/staff_today_att:table-0": {
+    "columns": [
+      "Id",
+      "Role",
+      "Name",
+      "Contact No",
+      "In Time",
+      "Out Time",
+      "All Logs",
+      "Status"
+    ],
+    "page": "salary_module/attendance/staff_today_att",
+    "title": "View Today Attendance"
+  },
+  "salary_module/attendance/trainer_monthly_attendance:table-0": {
+    "columns": [
+      "id",
+      "Type",
+      "Name",
+      "Present",
+      "Absent",
+      "Half Day",
+      "Holiday",
+      "View Log"
+    ],
+    "page": "salary_module/attendance/trainer_monthly_attendance",
+    "title": "View Attendance Report"
+  },
+  "salary_module/manage_salary_structure:table-0": {
+    "columns": [
+      "Employee",
+      "Salary",
+      "HRA/Special/ESI/PF",
+      "Allowed Leaves(Monthly)",
+      "Shift Hours",
+      "Shift",
+      "Action"
+    ],
+    "page": "salary_module/manage_salary_structure",
+    "title": "Manage Salary Structure"
+  }
+}

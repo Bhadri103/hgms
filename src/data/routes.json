@@ -1,0 +1,1127 @@
+[
+  {
+    "path": "/attendance/bulk_attendance",
+    "title": "Add Member Attendance",
+    "file": "src/pages/attendance/bulk_attendance.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 4,
+    "bodyClass": " "
+  },
+  {
+    "path": "/attendance/datewise_attendance",
+    "title": "View 9 Oct 2026 Attendance",
+    "file": "src/pages/attendance/datewise_attendance.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 5,
+    "bodyClass": " "
+  },
+  {
+    "path": "/attendance/monthly_attendance",
+    "title": "View Attendance Report",
+    "file": "src/pages/attendance/monthly_attendance.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 5,
+    "bodyClass": " "
+  },
+  {
+    "path": "/attendance/today_logs",
+    "title": "Today Attendance Logs",
+    "file": "src/pages/attendance/today_logs.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/attendance_gym_qrcode",
+    "title": "Attendance QR Code",
+    "file": "src/pages/attendance_gym_qrcode.jsx",
+    "shell": false,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/billing/invoice_management/cancel_invoice",
+    "title": "Cancel Invoice",
+    "file": "src/pages/billing/invoice_management/cancel_invoice.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/billing/invoice_management/manage_invoice",
+    "title": "Manage Invoice",
+    "file": "src/pages/billing/invoice_management/manage_invoice.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/billing/receipt_management/cancel_invoice",
+    "title": "Cancel Invoice",
+    "file": "src/pages/billing/receipt_management/cancel_invoice.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/billing/receipt_management/manage_recipt",
+    "title": "Manage Payment Receipt",
+    "file": "src/pages/billing/receipt_management/manage_recipt.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/cash-flow-report/cashflow_report",
+    "title": "Cashflow Report Add Opening Balance",
+    "file": "src/pages/cash-flow-report/cashflow_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/booking_calendar",
+    "title": "Booking Calendar",
+    "file": "src/pages/Class_booking/booking_calendar.jsx",
+    "shell": false,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/booking_report",
+    "title": "Booking Report",
+    "file": "src/pages/Class_booking/booking_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 4,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/manage_booking",
+    "title": "Manage Class Bookings",
+    "file": "src/pages/Class_booking/manage_booking.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 6,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/manage_schcat",
+    "title": "Manage Scheduling Category(23) Add Scheduling Category (unavailable)",
+    "file": "src/pages/Class_booking/manage_schcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/manage_schclass",
+    "title": "Manage Scheduling Classes",
+    "file": "src/pages/Class_booking/manage_schclass.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 6,
+    "bodyClass": " "
+  },
+  {
+    "path": "/Class_booking/manage_schplan",
+    "title": "Manage Scheduling Plan(0) Add Scheduling Plan (unavailable)",
+    "file": "src/pages/Class_booking/manage_schplan.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/add_enquiry_pre",
+    "title": "Add Enquiry",
+    "file": "src/pages/communicate/enquiry/add_enquiry_pre.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 16,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/category_followup",
+    "title": "Category Followup",
+    "file": "src/pages/communicate/enquiry/category_followup.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/manage_bookings",
+    "title": "Manage Enquiry",
+    "file": "src/pages/communicate/enquiry/manage_bookings.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/manage_enquiry_followup_delayed",
+    "title": "Manage Enquiry",
+    "file": "src/pages/communicate/enquiry/manage_enquiry_followup_delayed.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/manage_enquiry_followup_today",
+    "title": "Manage Enquiry",
+    "file": "src/pages/communicate/enquiry/manage_enquiry_followup_today.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/manage_enquiry_pre",
+    "title": "Manage Enquiry",
+    "file": "src/pages/communicate/enquiry/manage_enquiry_pre.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/enquiry/uninterested_followup",
+    "title": "Manage Uninterested Enquiry",
+    "file": "src/pages/communicate/enquiry/uninterested_followup.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/promotion_broadcast/expired_allsms",
+    "title": "SMS To ALL Expired (56)",
+    "file": "src/pages/communicate/promotion_broadcast/expired_allsms.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/promotion_broadcast/sendto_all",
+    "title": "SMS To ALL (1125)",
+    "file": "src/pages/communicate/promotion_broadcast/sendto_all.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/promotion_broadcast/sendto_enquiry",
+    "title": "SMS To ALL Enquiry (32)",
+    "file": "src/pages/communicate/promotion_broadcast/sendto_enquiry.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/communicate/promotion_broadcast/smsall_livemember",
+    "title": "SMS To ALL Live (22)",
+    "file": "src/pages/communicate/promotion_broadcast/smsall_livemember.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/assign_diet_web",
+    "title": "Assign Diet",
+    "file": "src/pages/engagement/assign_diet_web.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 67,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/assign_exercise_web",
+    "title": "Assign Exercise",
+    "file": "src/pages/engagement/assign_exercise_web.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 52,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/manage_diet",
+    "title": "Manage Diet Plans",
+    "file": "src/pages/engagement/manage_diet.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 204,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/manage_measureN",
+    "title": "Manage Measurements",
+    "file": "src/pages/engagement/manage_measureN.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/manage_workoutN",
+    "title": "Manage Workout Plans",
+    "file": "src/pages/engagement/manage_workoutN.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 49,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/diet/assign_dietplan",
+    "title": "Assign Diet Plan",
+    "file": "src/pages/engagement/old/diet/assign_dietplan.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 24,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/diet/diet_plan",
+    "title": "diet plan",
+    "file": "src/pages/engagement/old/diet/diet_plan.jsx",
+    "shell": false,
+    "empty": true,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/diet/manage_diet",
+    "title": "Manage Diet",
+    "file": "src/pages/engagement/old/diet/manage_diet.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 23,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/diet/manage_dietassign",
+    "title": "Manage Assign Diet",
+    "file": "src/pages/engagement/old/diet/manage_dietassign.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 6,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/measurement/add_measurement",
+    "title": "Add Measurement",
+    "file": "src/pages/engagement/old/measurement/add_measurement.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 41,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/measurement/manage_measurement",
+    "title": "Manage Measurement",
+    "file": "src/pages/engagement/old/measurement/manage_measurement.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/workout-plan/assign_workout_plan",
+    "title": "Assign Workout",
+    "file": "src/pages/engagement/old/workout-plan/assign_workout_plan.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 25,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/old/workout-plan/view_workout_plan",
+    "title": "View Workout",
+    "file": "src/pages/engagement/old/workout-plan/view_workout_plan.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/engagement/viewassign_workout_plan",
+    "title": "viewassign workout plan",
+    "file": "src/pages/engagement/viewassign_workout_plan.jsx",
+    "shell": false,
+    "empty": true,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/finance/event_management/add_events",
+    "title": "Add Events",
+    "file": "src/pages/finance/event_management/add_events.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 12,
+    "bodyClass": " "
+  },
+  {
+    "path": "/finance/event_management/manage_events",
+    "title": "Manage Events",
+    "file": "src/pages/finance/event_management/manage_events.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/finance/expense_management/expense_report",
+    "title": "Manage Expenses Report",
+    "file": "src/pages/finance/expense_management/expense_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 13,
+    "bodyClass": " "
+  },
+  {
+    "path": "/finance/expense_management/fixed_expenses",
+    "title": "Fixed Expenses Add Expense (unavailable)",
+    "file": "src/pages/finance/expense_management/fixed_expenses.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/finance/expense_management/manage_expenses",
+    "title": "Manage Expenses Add Expense (unavailable)",
+    "file": "src/pages/finance/expense_management/manage_expenses.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 13,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/bulk-upload",
+    "title": "bulk-upload",
+    "file": "src/pages/general/bulk-upload.jsx",
+    "shell": false,
+    "empty": true,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/bult-upload/bulkmember_upload1",
+    "title": "Unbound Bulk Member",
+    "file": "src/pages/general/bult-upload/bulkmember_upload1.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 14,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/bult-upload/bulkmember_upload2",
+    "title": "Upload Basic Member",
+    "file": "src/pages/general/bult-upload/bulkmember_upload2.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/bult-upload/delete_bulkmember",
+    "title": "Delete Member Excel",
+    "file": "src/pages/general/bult-upload/delete_bulkmember.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/invcollection",
+    "title": "Profit & Loss Report",
+    "file": "src/pages/general/inventory-management/invcollection.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/item_report",
+    "title": "Item Report",
+    "file": "src/pages/general/inventory-management/item_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 4,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/manage_product",
+    "title": "Manage Product",
+    "file": "src/pages/general/inventory-management/manage_product.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/manage_purchase",
+    "title": "Manage Purchase Bill Add Purchase Bill (unavailable)",
+    "file": "src/pages/general/inventory-management/manage_purchase.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/manage_sell",
+    "title": "Manage Sale Bill Add Sale Bill (unavailable)",
+    "file": "src/pages/general/inventory-management/manage_sell.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/purchase_report",
+    "title": "Purchase Report",
+    "file": "src/pages/general/inventory-management/purchase_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 5,
+    "bodyClass": " "
+  },
+  {
+    "path": "/general/inventory-management/sale_report",
+    "title": "Sale Report",
+    "file": "src/pages/general/inventory-management/sale_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 5,
+    "bodyClass": " "
+  },
+  {
+    "path": "/home",
+    "title": "Welcome To HGMS - Gym Management Software(HGMS-0002-1)",
+    "file": "src/pages/home.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 4,
+    "bodyClass": " "
+  },
+  {
+    "path": "/login0bfe",
+    "title": "Run the floor with clarity.",
+    "file": "src/pages/login0bfe.jsx",
+    "shell": false,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": "rtl login example1 "
+  },
+  {
+    "path": "/manage_feedback",
+    "title": "Manage Feedback(9)",
+    "file": "src/pages/manage_feedback.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/manage_offer_gal",
+    "title": "Manage Offer/Gallery Image(5) Add Offer/Gallery Image (unavailable)",
+    "file": "src/pages/manage_offer_gal.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/master/backup_management",
+    "title": "backup management",
+    "file": "src/pages/master/backup_management.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/cashflow_subcat",
+    "title": "Manage Expense Category Add Category (unavailable)",
+    "file": "src/pages/master/cashflow_subcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/logged_user",
+    "title": "logged user",
+    "file": "src/pages/master/logged_user.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_ai_timezone",
+    "title": "AI Timezones",
+    "file": "src/pages/master/manage_ai_timezone.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 91,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_ai_weekzone",
+    "title": "AI Weekzones",
+    "file": "src/pages/master/manage_ai_weekzone.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 67,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_batch",
+    "title": "batch(9) Add batch (unavailable)",
+    "file": "src/pages/master/manage_batch.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_coupon",
+    "title": "Coupon Management (0) Add Coupon (unavailable)",
+    "file": "src/pages/master/manage_coupon.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_custcat",
+    "title": "Manage Customer Category(13) Add Customer Category (unavailable)",
+    "file": "src/pages/master/manage_custcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_eventcat",
+    "title": "Manage Event Category(10) Add Event Category (unavailable)",
+    "file": "src/pages/master/manage_eventcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_inqtype",
+    "title": "Manage Inquiry Type(15) Add Inquiry Type (unavailable)",
+    "file": "src/pages/master/manage_inqtype.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_plan",
+    "title": "Manage Plan(25) Add plan (unavailable)",
+    "file": "src/pages/master/manage_plan.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_productcat",
+    "title": "Manage Product Category(12) Add Product Category (unavailable)",
+    "file": "src/pages/master/manage_productcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_role",
+    "title": "Manage Role(7) Add Role (unavailable)",
+    "file": "src/pages/master/manage_role.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_special_coupon",
+    "title": "Special Coupon Management (0) Generate Special Coupon (unavailable)",
+    "file": "src/pages/master/manage_special_coupon.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 0,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_tax",
+    "title": "Manage Tax(5) Add tax (unavailable)",
+    "file": "src/pages/master/manage_tax.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_template",
+    "title": "Manage SMS Template(8)",
+    "file": "src/pages/master/manage_template.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_unit",
+    "title": "Manage Unit(8) Add Unit (unavailable)",
+    "file": "src/pages/master/manage_unit.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_user",
+    "title": "User(8) Add User (unavailable)",
+    "file": "src/pages/master/manage_user.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/manage_workoutcat",
+    "title": "Manage Workout Category(51) Add Workout Category (unavailable)",
+    "file": "src/pages/master/manage_workoutcat.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/organizations",
+    "title": "Manage Organisation(3) Add Organisation Left License 0",
+    "file": "src/pages/master/organizations.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/master/user_log",
+    "title": "View User Logs(8)",
+    "file": "src/pages/master/user_log.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " master-ui-page"
+  },
+  {
+    "path": "/membership/add_member",
+    "title": "Add Member",
+    "file": "src/pages/membership/add_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 82,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/quick_membership",
+    "title": "Quick Membership",
+    "file": "src/pages/membership/quick_membership.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 7,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/all_member_live_report",
+    "title": "View Live Memberships",
+    "file": "src/pages/membership/all_member_live_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/block_member",
+    "title": "Block Members(4)",
+    "file": "src/pages/membership/block_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/delete_member",
+    "title": "Delete Members(14)",
+    "file": "src/pages/membership/delete_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/expired_membership",
+    "title": "Expired Members(79)",
+    "file": "src/pages/membership/expired_membership.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/manage_group_x_member",
+    "title": "Groupx Subscription(2)",
+    "file": "src/pages/membership/manage_group_x_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/manage_pt_member",
+    "title": "PT Subscription(5)",
+    "file": "src/pages/membership/manage_pt_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/upgrade/add_group_x_upgrade_membership",
+    "title": "Add GroupX Upgrade Membership",
+    "file": "src/pages/membership/upgrade/add_group_x_upgrade_membership.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 32,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/upgrade/add_pt_upgrade_membership",
+    "title": "Add PT Upgrade Membership",
+    "file": "src/pages/membership/upgrade/add_pt_upgrade_membership.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 26,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/upgrade/upgrademembership_plan",
+    "title": "upgrademembership plan",
+    "file": "src/pages/membership/upgrade/upgrademembership_plan.jsx",
+    "shell": false,
+    "empty": true,
+    "fields": 0,
+    "bodyClass": " "
+  },
+  {
+    "path": "/membership/vip_member",
+    "title": "VIP Members(4)",
+    "file": "src/pages/membership/vip_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/member_profile/member_profile",
+    "title": "View Members (1106)",
+    "file": "src/pages/member_profile/member_profile.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 5,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/add_member",
+    "title": "Add Member",
+    "file": "src/pages/report/add_member.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 82,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/all_freeze_member_report",
+    "title": "View All Memberships",
+    "file": "src/pages/report/all_freeze_member_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/all_left_member_report",
+    "title": "View All Memberships",
+    "file": "src/pages/report/all_left_member_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/all_member_report",
+    "title": "View Live Memberships",
+    "file": "src/pages/report/all_member_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/batch_report",
+    "title": "Batch Report",
+    "file": "src/pages/report/batch_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/collection_report",
+    "title": "Month Collection Report ₹ 3700",
+    "file": "src/pages/report/collection_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 14,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/collection_report_all",
+    "title": "Month Collection Report ₹ 3700",
+    "file": "src/pages/report/collection_report_all.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 13,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/collection_report_pos",
+    "title": "Month Collection Report ₹ 0",
+    "file": "src/pages/report/collection_report_pos.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 12,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/due_report",
+    "title": "Due Amount Gym Members",
+    "file": "src/pages/report/due_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/expired_memberreport",
+    "title": "Expired Members Report",
+    "file": "src/pages/report/expired_memberreport.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 15,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/gift_days_report",
+    "title": "Gift Days Report",
+    "file": "src/pages/report/gift_days_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 2,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/incentive_report",
+    "title": "Incentive Report",
+    "file": "src/pages/report/incentive_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/irregular_members",
+    "title": "Irregular Members",
+    "file": "src/pages/report/irregular_members.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 4,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/member_referred",
+    "title": "Referred Report",
+    "file": "src/pages/report/member_referred.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/plan_report",
+    "title": "Plan Report",
+    "file": "src/pages/report/plan_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/profit_loss_report",
+    "title": "Profit & Loss Report",
+    "file": "src/pages/report/profit_loss_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/promotion_report",
+    "title": "Promotion Events Report",
+    "file": "src/pages/report/promotion_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 19,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/pt_gx_expiring",
+    "title": "Expiring PT/Groupx All Members",
+    "file": "src/pages/report/pt_gx_expiring.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 15,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/renewal_members",
+    "title": "Renewed Members",
+    "file": "src/pages/report/renewal_members.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 12,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/sales_tracker",
+    "title": "Daily Sales Tracker Report",
+    "file": "src/pages/report/sales_tracker.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 10,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/tax_report",
+    "title": "Tax Report",
+    "file": "src/pages/report/tax_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 8,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/today_event",
+    "title": "Today Events",
+    "file": "src/pages/report/today_event.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 7,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/today_member_report",
+    "title": "Join Members",
+    "file": "src/pages/report/today_member_report.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 12,
+    "bodyClass": " "
+  },
+  {
+    "path": "/report/trainer_ptreport",
+    "title": "Trainer Pt Report",
+    "file": "src/pages/report/trainer_ptreport.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 9,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/attendance/generate_salary",
+    "title": "Generate Salary",
+    "file": "src/pages/salary_module/attendance/generate_salary.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/attendance/salary_log",
+    "title": "View Salary Sheet",
+    "file": "src/pages/salary_module/attendance/salary_log.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/attendance/staff_today_att",
+    "title": "View Today Attendance",
+    "file": "src/pages/salary_module/attendance/staff_today_att.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/attendance/trainer_attendance",
+    "title": "Add Trainer/Staff Attendance",
+    "file": "src/pages/salary_module/attendance/trainer_attendance.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 7,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/attendance/trainer_monthly_attendance",
+    "title": "Attendance Report",
+    "file": "src/pages/salary_module/attendance/trainer_monthly_attendance.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 3,
+    "bodyClass": " "
+  },
+  {
+    "path": "/salary_module/manage_salary_structure",
+    "title": "Manage Salary Structure",
+    "file": "src/pages/salary_module/manage_salary_structure.jsx",
+    "shell": true,
+    "empty": false,
+    "fields": 1,
+    "bodyClass": " "
+  }
+]
