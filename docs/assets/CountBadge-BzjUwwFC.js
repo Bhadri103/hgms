@@ -1,1 +1,0 @@
-import{E as e,n as t}from"./createLucideIcon-yBmrivRK.js";e();var n=t();function r({count:e}){return(0,n.jsxs)(`span`,{className:`page-count-badge`,children:[(0,n.jsx)(`span`,{className:`sr-only`,children:`Count: `}),e]})}export{r as t};
